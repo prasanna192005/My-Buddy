@@ -104,6 +104,10 @@ Welcome to **StudyBuddy**, a smart, interactive, and collaborative learning plat
 4. **Monitor Progress**: Get test performance breakdowns and revisit weak areas using our integrated resources.
 
 ---
+🎯 Future Enhancements
+Gamified Learning: Introduce a reward system for students based on their performance.
+Leaderboards: Track progress against other students and improve through competition.
+More Subjects: Expand the subjects offered to cover additional topics and courses.
 
 > 🎓 **StudyBuddy** bridges intelligence, collaboration, and customization to create a one-stop learning ecosystem—built by students, for students.
 
