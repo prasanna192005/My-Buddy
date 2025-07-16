@@ -1,0 +1,11 @@
+python-dotenv
+corsheaders
+langchain-google-genai
+langchain
+PyPDF2
+django-channels
+django-widget-tweaks
+psycopg2-binary
+jwt
+tensorflow
+langchain-community
